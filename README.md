@@ -39,7 +39,7 @@ To get started, you should have prior knowledge on **Python** and **Tensorflow**
 
 ## Step-by-step
 
-1.  Run `extract.py` to extract frames from videos in the folder `video` and save it in the folder `face_data`.
+1.  Run `extract.py` to extract frames from videos in the folder `video` and save them in the folder `face_data`.
 
 2. Open the notebook `face_recognition.ipynb` and follow the pipeline in that notebook.
 
