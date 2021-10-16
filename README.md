@@ -39,15 +39,13 @@ To get started, you should have prior knowledge on **Python** and **Tensorflow**
 
 ## Step-by-step
 
-1. Extract the frames extracted from videos in folder `video` and save it in the folder `face_data`.
+1.  Run `extract.py` to extract frames from videos in the folder `video` and save it in the folder `face_data`.
 
-2. Run `extract.py` to extract frames from videos.
+2. Open the notebook `face_recognition.ipynb` and follow the pipeline in that notebook.
 
-3. Open the notebook `face_recognition.ipynb` and follow the pipeline in that notebook.
+3. The folder `test_data` is a folder of random images from the Internet which is used for testing whether the model works properly or not.
 
-4. The folder `test_data` is a folder of random images from the Internet which is used for testing whether the model works properly or not.
-
-5. Enjoy!
+4. Enjoy!
 
 
 ## Contribution
